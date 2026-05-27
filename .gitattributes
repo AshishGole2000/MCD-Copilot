@@ -1,0 +1,16 @@
+# Mark non-application files so GitHub Linguist only counts the app source
+*.ipynb linguist-documentation
+*.md linguist-documentation
+*.pdf linguist-documentation
+*.pptx linguist-documentation
+*.docx linguist-documentation
+*.bib linguist-documentation
+
+docs/* linguist-documentation
+literature/* linguist-documentation
+presentation/* linguist-documentation
+proposal/* linguist-documentation
+reflections/* linguist-documentation
+speed_dating/* linguist-documentation
+validation/* linguist-documentation
+prompts/* linguist-documentation
